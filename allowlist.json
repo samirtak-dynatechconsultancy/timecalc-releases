@@ -1,0 +1,9 @@
+{
+  "_comment": "Who may run Active Time Tracker. Edit this file and commit - changes take effect on each user's next start, no reinstall needed.",
+  "mode": "enforce",
+  "domains": [],
+  "users": [
+    "DYNATECH\Samir.Tak"
+  ],
+  "message": "Active Time Tracker is not enabled for your account yet. Please contact Samir Tak to request access."
+}
