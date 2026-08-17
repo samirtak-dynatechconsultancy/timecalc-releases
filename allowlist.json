@@ -3,7 +3,8 @@
   "mode": "enforce",
   "domains": [],
   "users": [
-    "DYNATECH\\Samir.Tak"
+    "DYNATECH\\Samir.Tak",
+    "DYNATECH\\Shubham.Kumbhar"
   ],
   "message": "Active Time Tracker is not enabled for your account yet. Please contact Samir Tak to request access."
 }
