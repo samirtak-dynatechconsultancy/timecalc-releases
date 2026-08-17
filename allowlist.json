@@ -1,9 +1,9 @@
 {
-  "_comment": "Who may run Active Time Tracker. Edit this file and commit - changes take effect on each user's next start, no reinstall needed.",
+  "_comment": "Who may run Active Time Tracker. Edit this file and commit - changes take effect on each user's next start, no reinstall needed. Entries are Windows accounts, either DOMAIN\\username or a bare username. Add a domain to 'domains' to allow everyone in it. Set mode to 'off' to disable the check.",
   "mode": "enforce",
   "domains": [],
   "users": [
-    "DYNATECH\Samir.Tak"
+    "DYNATECH\\Samir.Tak"
   ],
   "message": "Active Time Tracker is not enabled for your account yet. Please contact Samir Tak to request access."
 }
